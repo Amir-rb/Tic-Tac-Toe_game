@@ -1,0 +1,14 @@
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\bin\Debug\net8.0\Tic-Tac-Toe_Arrays.exe
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\bin\Debug\net8.0\Tic-Tac-Toe_Arrays.deps.json
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\bin\Debug\net8.0\Tic-Tac-Toe_Arrays.runtimeconfig.json
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\bin\Debug\net8.0\Tic-Tac-Toe_Arrays.dll
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\bin\Debug\net8.0\Tic-Tac-Toe_Arrays.pdb
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.AssemblyInfoInputs.cache
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.AssemblyInfo.cs
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.dll
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\refint\Tic-Tac-Toe_Arrays.dll
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.pdb
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\Tic-Tac-Toe_Arrays.genruntimeconfig.cache
+C:\Users\amirm\Documents\Class\C# Code\Tic-Tac-Toe_Arrays\Tic-Tac-Toe_Arrays\obj\Debug\net8.0\ref\Tic-Tac-Toe_Arrays.dll
